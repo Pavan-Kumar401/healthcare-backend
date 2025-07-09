@@ -125,3 +125,18 @@ db.sqlite3
 🙋‍♂️ Author
 ### Pavan Kumar
 GitHub: @Pavan-Kumar401
+
+### 📬 Feedback or Contributions?
+Feel free to open an issue or create a pull request if you'd like to improve this project or suggest enhancements.
+
+
+Let me know once you’ve pasted and committed this. I can also help you:
+
+- Generate a `.pdf` summary report from this
+- Deploy the project to Render/Heroku
+- Write a cover letter/email to submit the project professionally
+
+### Just say the word!
+
+
+
